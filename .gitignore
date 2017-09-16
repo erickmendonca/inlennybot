@@ -1,0 +1,8 @@
+venv/
+*.pyc
+.cache
+build/
+dist/
+*.bat
+.env
+.vscode/
